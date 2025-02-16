@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactdentreti/static/css/main.426446ab.css",
+    "main.js": "/reactdentreti/static/js/main.72abb4d6.js",
+    "index.html": "/reactdentreti/index.html",
+    "main.426446ab.css.map": "/reactdentreti/static/css/main.426446ab.css.map",
+    "main.72abb4d6.js.map": "/reactdentreti/static/js/main.72abb4d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.426446ab.css",
+    "static/js/main.72abb4d6.js"
+  ]
+}
